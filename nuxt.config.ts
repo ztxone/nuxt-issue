@@ -7,7 +7,7 @@ export default defineNuxtConfig({
 		componentName: 'NuxtIcon',
 		customCollections: [
 			{
-				prefix: 'elfi',
+				prefix: 'el',
 				dir: './assets/icons'
 			},
 		],
